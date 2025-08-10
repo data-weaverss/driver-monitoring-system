@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/phone_finetunning_0415/train/images
+val: /content/drive/MyDrive/phone_finetunning_0415/val/images
+test: /content/drive/MyDrive/phone_finetunning_0415/test/images
+
+nc: 1
+names: ['phone']
